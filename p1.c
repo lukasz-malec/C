@@ -1,3 +1,9 @@
+// Napisać program, który czyta ciąg liczb ze standardowego wejścia aż do wystąpienia znaku końca pliku (kombinacja klawiszy Ctrl–D na klawiaturze), a następnie
+// oblicza średnią arytmetyczną i odchylenie standardowe, po czym wyprowadza wyniki na standardowe wyjście. W pierwszej wersji programu, dane mogą być
+// przechowywane w jednowymiarowej tablicy liczb zmiennoprzecinkowych o ustalonym rozmiarze maksymalnym (np. Nmax = 1000) zadeklarowanym jako stała
+// całkowita 
+
+
 #include <stdio.h>
 #include <math.h>
 
